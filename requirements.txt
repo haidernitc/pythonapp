@@ -1,0 +1,7 @@
+Click==7.0
+Django==2.1.4
+Pillow==5.3.0
+pyparsing==2.3.0
+pytz==2018.7
+svgwrite==1.2.1
+Tree==0.2.4
